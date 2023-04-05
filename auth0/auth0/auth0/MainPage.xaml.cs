@@ -14,6 +14,11 @@ namespace auth0
         {
             InitializeComponent();
         }
+
+        void Button_Clicked(System.Object sender, System.EventArgs e)
+        {
+            //var auth0
+        }
     }
 }
 
